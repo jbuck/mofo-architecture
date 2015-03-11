@@ -1,3 +1,3 @@
 # mofo-architecture
 
-Documenting the current and future state of Mozilla Foundation apps
+Documenting the [current](current) and [future](future) state of Mozilla Foundation apps
